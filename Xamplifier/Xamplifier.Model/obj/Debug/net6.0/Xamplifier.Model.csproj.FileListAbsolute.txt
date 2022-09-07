@@ -1,0 +1,12 @@
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\bin\Debug\net6.0\Xamplifier.Model.deps.json
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\bin\Debug\net6.0\Xamplifier.Model.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\bin\Debug\net6.0\Xamplifier.Model.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.csproj.AssemblyReference.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.AssemblyInfoInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.AssemblyInfo.cs
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.csproj.CoreCompileInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\refint\Xamplifier.Model.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\Xamplifier.Model.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Model\obj\Debug\net6.0\ref\Xamplifier.Model.dll

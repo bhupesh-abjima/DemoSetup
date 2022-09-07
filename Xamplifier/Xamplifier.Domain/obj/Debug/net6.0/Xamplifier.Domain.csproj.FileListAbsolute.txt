@@ -1,0 +1,12 @@
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\bin\Debug\net6.0\Xamplifier.Domain.deps.json
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\bin\Debug\net6.0\Xamplifier.Domain.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\bin\Debug\net6.0\Xamplifier.Domain.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.csproj.AssemblyReference.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.AssemblyInfoInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.AssemblyInfo.cs
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\refint\Xamplifier.Domain.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\Xamplifier.Domain.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Domain\obj\Debug\net6.0\ref\Xamplifier.Domain.dll

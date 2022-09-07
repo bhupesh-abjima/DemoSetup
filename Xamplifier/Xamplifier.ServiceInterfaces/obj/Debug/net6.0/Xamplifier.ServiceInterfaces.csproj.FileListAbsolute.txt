@@ -1,0 +1,15 @@
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\bin\Debug\net6.0\Xamplifier.ServiceInterfaces.deps.json
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\bin\Debug\net6.0\Xamplifier.ServiceInterfaces.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\bin\Debug\net6.0\Xamplifier.ServiceInterfaces.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.csproj.AssemblyReference.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.AssemblyInfoInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.AssemblyInfo.cs
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\refint\Xamplifier.ServiceInterfaces.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\ref\Xamplifier.ServiceInterfaces.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\bin\Debug\net6.0\Xamplifier.Model.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\bin\Debug\net6.0\Xamplifier.Model.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.ServiceInterfaces\obj\Debug\net6.0\Xamplifier.ServiceInterfaces.csproj.CopyComplete

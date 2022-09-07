@@ -1,0 +1,17 @@
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.Data.deps.json
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.Data.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.Data.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.csproj.AssemblyReference.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.AssemblyInfoInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.AssemblyInfo.cs
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.csproj.CoreCompileInputs.cache
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\refint\Xamplifier.Data.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\ref\Xamplifier.Data.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.DataInterfaces.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.Domain.dll
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.DataInterfaces.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\bin\Debug\net6.0\Xamplifier.Domain.pdb
+C:\Users\BhupeshGupta\Desktop\FormsGenXamplifier\Xamplifier\Xamplifier.Data\obj\Debug\net6.0\Xamplifier.Data.csproj.CopyComplete

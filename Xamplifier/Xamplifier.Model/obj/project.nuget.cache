@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRyeU/Vo3wYXs/MZYG4DX/XlGP+m4vDEugxAk8t3ghN9KlTHj5FmdYyyr0veoa1oH5l5j80yW54xVrN4lLtONg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

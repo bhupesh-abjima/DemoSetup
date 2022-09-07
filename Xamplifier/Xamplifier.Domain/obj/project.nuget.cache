@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYSQPLD7IgDTg+A15FDFroAerlO42murWSxLPZJ2g3ljNy4haopKixnpq14cYB+KIGOvBaZtnGUZPmdIdTcq+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\BhupeshGupta\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

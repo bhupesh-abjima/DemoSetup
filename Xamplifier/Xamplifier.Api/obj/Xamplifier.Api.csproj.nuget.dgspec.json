@@ -1,0 +1,553 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Api\\Xamplifier.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Api\\Xamplifier.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Api\\Xamplifier.Api.csproj",
+        "projectName": "Xamplifier.Api",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Api\\Xamplifier.Api.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\Xamplifier.Data.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\Xamplifier.Data.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\Xamplifier.Services.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\Xamplifier.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Extensions.Configuration.SystemsManager": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Scrutor.AspNetCore": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj",
+        "projectName": "Xamplifier.DataInterfaces",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\Xamplifier.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\Xamplifier.Data.csproj",
+        "projectName": "Xamplifier.Data",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\Xamplifier.Data.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj",
+        "projectName": "Xamplifier.Domain",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj",
+        "projectName": "Xamplifier.Model",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj",
+        "projectName": "Xamplifier.ServiceInterfaces",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\Xamplifier.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\Xamplifier.Services.csproj",
+        "projectName": "Xamplifier.Services",
+        "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\Xamplifier.Services.csproj",
+        "packagesPath": "C:\\Users\\BhupeshGupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BhupeshGupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.DataInterfaces\\Xamplifier.DataInterfaces.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Domain\\Xamplifier.Domain.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.Model\\Xamplifier.Model.csproj"
+              },
+              "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj": {
+                "projectPath": "C:\\Users\\BhupeshGupta\\Desktop\\FormsGenXamplifier\\Xamplifier\\Xamplifier.ServiceInterfaces\\Xamplifier.ServiceInterfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
